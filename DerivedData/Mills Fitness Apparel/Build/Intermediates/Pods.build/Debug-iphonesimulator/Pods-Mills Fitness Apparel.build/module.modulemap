@@ -1,0 +1,6 @@
+framework module Pods_Mills_Fitness_Apparel {
+  umbrella header "Pods-Mills Fitness Apparel-umbrella.h"
+
+  export *
+  module * { export * }
+}
